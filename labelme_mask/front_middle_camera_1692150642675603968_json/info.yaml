@@ -1,0 +1,8 @@
+label_names:
+- _background_
+- arrow
+- crossing
+- ignore
+- lane
+- roadmark_other
+- stop_line

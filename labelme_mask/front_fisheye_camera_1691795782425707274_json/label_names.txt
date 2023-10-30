@@ -1,0 +1,6 @@
+_background_
+arrow
+crossing
+lane
+roadmark_other
+stop_line

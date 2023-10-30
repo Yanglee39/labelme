@@ -1,0 +1,6 @@
+_background_
+crossing
+ignore
+lane
+roadmark_other
+stop_line
