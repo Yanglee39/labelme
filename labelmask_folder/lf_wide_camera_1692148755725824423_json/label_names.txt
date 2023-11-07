@@ -1,0 +1,3 @@
+_background_
+lane
+stop_line

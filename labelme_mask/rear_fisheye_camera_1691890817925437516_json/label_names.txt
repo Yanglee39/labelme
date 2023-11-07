@@ -1,4 +1,0 @@
-_background_
-arrow
-lane
-stop_line

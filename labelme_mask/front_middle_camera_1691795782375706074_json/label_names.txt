@@ -1,5 +1,0 @@
-_background_
-arrow
-crossing
-ignore
-lane

@@ -1,0 +1,4 @@
+_background_
+crossing
+roadmark_other
+stop_line

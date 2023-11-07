@@ -1,5 +1,0 @@
-_background_
-crossing
-ignore
-roadmark_other
-stop_line

@@ -1,4 +1,0 @@
-_background_
-ignore
-lane
-stop_line
